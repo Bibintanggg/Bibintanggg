@@ -7,7 +7,7 @@
 🌱 I’m currently learning **Backend Development & Advanced React Concepts**.  
 🎨 I have experience in **UI/UX design and Frontend Development**.  
 💡 I love working on innovative and problem-solving projects.  
-📫 Reach me at **bintangyudha46@gmail.com**  
+📫 Reach me at **bintangyuda08@gmail.com**  
 
 ### 🛠️ Tech Stack
 
