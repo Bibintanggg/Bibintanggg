@@ -1,4 +1,4 @@
-## Hi there, I'm Bintang Yudha Putra Purnomo!! 👋  
+## 💫 Hi, I'm Bintang Yudha Putra Purnomo 💫
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=450&lines=Frontend+Developer;UI%2FUX+Designer;Software+Engineer;Tech+Enthusiast)
 
