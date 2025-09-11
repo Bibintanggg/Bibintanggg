@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Bibintanggg&show_icons=true&theme=radical" alt="Bintang's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Bibintanggg&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Bintang's GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibintanggg&layout=compact&theme=radical" alt="Top Langs" />
@@ -41,6 +41,7 @@
 </table>
 
 </div>
+
 
 
 
