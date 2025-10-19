@@ -2,7 +2,7 @@
 
 <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" /> 
 
-### 🚀 About Me
+### 🚀 About Mee
 🌱 I’m currently learning **Backend Development, Advanced React Concept & Machine Learning**.  
 🎨 I have experience in **UI/UX design and Frontend Development**.  
 💡 I love working on innovative and problem-solving projects.  
