@@ -19,6 +19,18 @@
 ### 📚 Currently Learning:
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
+
+
+
+### ⚡ Fun Fact
+I love building UI components that make web applications **look modern and engaging!** 🎨✨  
+
+---
+### 🎯 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bintangyudha)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bibintanggg)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bintang.ydha_)
+
 <div align="center">
 
 ## 📊 GitHub Stats
@@ -43,15 +55,3 @@
 </table>
 
 </div>
-
-
-
-
-### ⚡ Fun Fact
-I love building UI components that make web applications **look modern and engaging!** 🎨✨  
-
----
-### 🎯 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bintangyudha)
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bibintanggg)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bintang.ydha_)
